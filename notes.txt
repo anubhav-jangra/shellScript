@@ -1,0 +1,8 @@
+myFirstNote
+mySecondNote
+blah1
+a long note
+Wed May 30 05:43:33 IST 2018: added date to notes
+Wed May 30 05:47:05 IST 2018: this one is from a different directory
+Wed May 30 05:49:17 IST 2018: this one is from a another different directory
+Wed May 30 05:50:53 IST 2018: note this too from the bin folder
